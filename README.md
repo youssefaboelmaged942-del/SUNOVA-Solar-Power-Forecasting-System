@@ -1,6 +1,3 @@
-إليك كود الـ Markdown الخاص بتوثيق المشروع لتنسخه وتلصقه داخل ملف `README.md`:
-
-```markdown
 # SUNOVA: Solar Power Forecasting System
 
 ![Python](https://img.shields.io/badge/Python-3.9+-blue.svg)
