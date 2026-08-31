@@ -1,8 +1,5 @@
 # SUNOVA: Solar Power Forecasting System
 
-![Python](https://img.shields.io/badge/Python-3.9+-blue.svg)
-![Framework](https://img.shields.io/badge/FastAPI-Production--Ready-green.svg)
-![Architecture](https://img.shields.io/badge/Model-Dual--Input%20LSTM-orange.svg)
 [![Live Demo](https://img.shields.io/badge/Live_Demo-Visit_App-brightgreen?style=flat&logo=github)](https://mostafamahmoudma789-cloud.github.io/Sunova-power-gen-forecasting/)
 
 An intelligent, end-to-end solar power generation forecasting solution leveraging deep learning sequence models and transfer learning across multiple photovoltaic (PV) plants.
